@@ -1,4 +1,4 @@
-/// score code
+/// @description score code
 // Hello
 
 points = 0;
